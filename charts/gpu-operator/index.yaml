@@ -26,6 +26,6 @@ entries:
     sources:
     - https://github.com/NVIDIA/gpu-operator
     urls:
-    - gpu-operator/gpu-operator-v1.7.0.tgz
+    - gpu-operator-v1.7.0.tgz
     version: v1.7.0
 generated: "2021-10-06T20:00:16.2657307+05:30"
